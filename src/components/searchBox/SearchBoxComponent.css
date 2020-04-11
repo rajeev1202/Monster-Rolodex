@@ -1,0 +1,12 @@
+.onChange{
+display: block;
+margin: auto;
+margin-bottom: 30px;
+margin-top: 30px;
+width: larger;
+height: 30px;
+}
+::placeholder{
+    text-align: center;
+    font-style: oblique;
+}
